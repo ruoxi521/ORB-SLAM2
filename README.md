@@ -1,4 +1,4 @@
-# ORB-SLAM2
+支持Ubuntu18.04和Opencv4.5.2
 ORB-SLAM2 of Support opencv4.5.2
 
 # ORB-SLAM2
